@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mikea1984
-- 👀 I’m interested in learning python, Java and Linux!! Iam new in this profession but find it to the most exciting thing I have ever attempted. The opportunities are endless!!
-- 🌱 I’m currently learning ruby, Linux on ish and java. I have 5 yrs or exposure but only 6 months on actual organize learning on a language. I am super excited to make a career out of my newly discovered passion!!
+- 👀 I’m interested in learning python, Java and Linux and more!! Iam new in this profession ,although I find it to be the most exciting. The possibilities are endless! 
+- 🌱 I’m currently learning ruby, Linux on ish and java. I have a few yrs of exposure. (2022)I only have about 6 months actual organized/focused learning on a specific language. I am super excited to make a career out of my newly discovered passion!!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - archuletamike99@gmail.com
 
